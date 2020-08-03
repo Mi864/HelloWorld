@@ -1,3 +1,3 @@
 # HelloWorld
 
-Características
+Características principales de la App
